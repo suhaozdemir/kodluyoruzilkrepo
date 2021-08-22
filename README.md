@@ -2,7 +2,7 @@
 
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org) eğitimleri kapsamında oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-![](/Desktop/repo.png "Repo")
+![](/Desktop/repo.png "Repository")
 
 ## Installation
 
