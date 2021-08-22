@@ -2,12 +2,14 @@
 
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org) eğitimleri kapsamında oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-![](/Desktop/repo.png "Repository")
+![](C:\Users\OMEN\kodluyoruzilkrepo\repo.png "Repository")
 
 ## Installation
 
 Öncelikle projeyi clonelayın.
-`git clone https://github.com/suhaozdemir/kodluyoruzilkrepo.git`
+```
+git clone https://github.com/suhaozdemir/kodluyoruzilkrepo.git
+```
 
 ## Usage
 
